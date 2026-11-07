@@ -25,6 +25,14 @@ The default development URL is http://localhost:5173. To use the demo's current 
 
     npm run build
 
+## Deploy on Vercel
+
+Import this repository with its root directory set to the repository root. The tracked `vercel.json` selects Next.js, runs `npm run build:vercel` and uses the `.next` output directory. Leave the install command at its default and use Node.js 22 or newer.
+
+The default `npm run build` remains the Vinext/Cloudflare build used by Sites. Its `dist` output is different from a Next.js build and must not be used with Vercel's Next.js preset. For a local check of the Vercel build:
+
+    npm run build:vercel
+
 ## Project structure
 
 - app/showroom.tsx: homepage and room previews
