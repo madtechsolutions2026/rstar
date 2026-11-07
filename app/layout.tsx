@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./showroom.css";
 
 export const metadata: Metadata = {
   title: "R Star Interiors | Thoughtful interiors. Timeless spaces.",

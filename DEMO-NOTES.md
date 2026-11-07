@@ -2,6 +2,10 @@
 
 Pages: `/` (studio), `/quotation` (editable quotation builder), `/admin` (project and financial dashboard).
 
+## Showroom redesign
+
+The current version uses bold sans-serif typography, an emerald/charcoal header, interactive living/kitchen/bedroom hero previews, property selection carried into consultation enquiries, and an interactive design lab immediately after the hero. Business tools use larger labels and figures with straightforward navigation. The original concept imagery and procedural 3D room remain in use. Reduced-motion preferences disable decorative transitions and hotspot animation.
+
 ## Demo boundary
 
 All portfolio scenes, client names, projects and financial records are illustrative. There is no real client backend, payment processing, message delivery or production admin authentication. Sites owner-private access controls the hosted demo. Browser localStorage holds edits, quotations and consultation requests on the current device. Different devices and domains have separate data.
