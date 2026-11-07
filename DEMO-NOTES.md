@@ -6,6 +6,8 @@ Pages: `/` (studio), `/quotation` (editable quotation builder), `/admin` (projec
 
 The current version uses bold sans-serif typography, an emerald/charcoal header, interactive living/kitchen/bedroom hero previews, property selection carried into consultation enquiries, and an interactive design lab immediately after the hero. Business tools use larger labels and figures with straightforward navigation. The original concept imagery and procedural 3D room remain in use. Reduced-motion preferences disable decorative transitions and hotspot animation.
 
+The homepage also includes a switchable three-style inspiration gallery, four material-family samples with selection notes, home-type planning guides, an itemised-quotation explainer and six expandable FAQs. Digital material swatches are illustrative CSS textures, not supplier product samples. The new sections reuse the original concept imagery; no real projects, reviews, prices or business guarantees are invented.
+
 ## Demo boundary
 
 All portfolio scenes, client names, projects and financial records are illustrative. There is no real client backend, payment processing, message delivery or production admin authentication. Sites owner-private access controls the hosted demo. Browser localStorage holds edits, quotations and consultation requests on the current device. Different devices and domains have separate data.
